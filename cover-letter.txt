@@ -1,1 +1,4 @@
 I am very good with using Git.
+
+Regards,
+Rares Matei
