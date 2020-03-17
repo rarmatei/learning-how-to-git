@@ -1,2 +1,5 @@
 Name: Rares
 Years of experience: 15
+
+Education:
+University of Aberdeen
